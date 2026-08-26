@@ -24,5 +24,35 @@
     "verified": "draft",
     "bendX": null,
     "bendY": null
+  },
+  {
+    "id": "local-1787754165532-okihow",
+    "fromId": "3458764677767034504",
+    "toId": "3458764677786814513",
+    "type": "mechanical",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null
+  },
+  {
+    "id": "local-1787754186004-rtyfjt",
+    "fromId": "3458764677790000525",
+    "toId": "3458764677768066624",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": 36.13,
+    "bendY": 76.91
+  },
+  {
+    "id": "local-1787754192933-rstbxd",
+    "fromId": "3458764677790000525",
+    "toId": "3458764677786814513",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": 64.91,
+    "bendY": 72.54
   }
 ]
