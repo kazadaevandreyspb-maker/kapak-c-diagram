@@ -82,14 +82,24 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null
+    "bendX": 42.18,
+    "bendY": 65.32
   },
   {
     "id": "local-1787754341131-zbwb0p",
     "fromId": "3458764677789585797",
     "toId": "3458764677768066190",
     "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": 73.98,
+    "bendY": 69.79
+  },
+  {
+    "id": "local-1787754551053-wiejhr",
+    "fromId": "3458764677768198234",
+    "toId": "3458764677780498715",
+    "type": "mechanical",
     "label": "",
     "verified": "draft",
     "bendX": null,
