@@ -64,12 +64,12 @@
     "name": "Сервопривод флаперона",
     "displayName": "Сервопривод",
     "category": "mechanical",
-    "x": 42.92,
-    "y": 58.96,
+    "x": 41.75,
+    "y": 58.3,
     "specs": "Emax ES08MD",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677768066190",
@@ -89,7 +89,7 @@
     "displayName": "ESC",
     "category": "mechanical",
     "x": 36.13,
-    "y": 49.15,
+    "y": 48.53,
     "specs": "Регулятор оборотов Велесова Топь 8S60",
     "notes": "",
     "width": 82,
@@ -148,12 +148,12 @@
     "name": "GPS модуль",
     "displayName": "GPS модуль",
     "category": "sensors",
-    "x": 10.89,
-    "y": 54.39,
+    "x": 6.92,
+    "y": 55.76,
     "specs": "Компас Holybro M10 GPS GNSS приемник IST8310 для Pixhawk 6C 6X Pix32",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 51
   },
   {
     "id": "3458764677771215962",
@@ -196,12 +196,12 @@
     "name": "Сервопривод флаперона",
     "displayName": "Сервопривод",
     "category": "mechanical",
-    "x": 58.03,
-    "y": 59.4,
+    "x": 58.68,
+    "y": 58.5,
     "specs": "Emax ES08MD",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677772505952",
@@ -280,12 +280,12 @@
     "name": "Приемопередатчик SiYi",
     "displayName": "SiYi",
     "category": "video",
-    "x": 50.05,
-    "y": 65.45,
+    "x": 50.82,
+    "y": 60.74,
     "specs": "SIYI HM30 Air Unit Воздушный блок с дальней передачей изображений",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677789585797",
@@ -352,12 +352,12 @@
     "name": "Антенна круговой поляризации",
     "displayName": "Антенна SiYi",
     "category": "video",
-    "x": 49.95,
-    "y": 62.98,
+    "x": 50.73,
+    "y": 55.96,
     "specs": "SIYI HM30 Air Unit Воздушный блок с дальней передачей изображений",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "custom-1787732885277-gfkhwv",
@@ -404,8 +404,8 @@
     "name": "Модуль PM02",
     "displayName": "Модуль PM02",
     "category": "power",
-    "x": 47.39,
-    "y": 71.15,
+    "x": 29.13,
+    "y": 71.01,
     "specs": "Модуль распределения питания - Holybro PM02 V3 Power Module 7-51V (2-12S) 100A (арт.HB-SKU15010)",
     "notes": ""
   }
