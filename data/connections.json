@@ -16,13 +16,13 @@
     "verified": "draft"
   },
   {
-    "id": "local-1787737060624-kabd8n",
-    "fromId": "3458764677768198234",
-    "toId": "3458764677768198640",
-    "type": "fc",
+    "id": "local-1787754147011-i83org",
+    "fromId": "3458764677766145829",
+    "toId": "3458764677768066624",
+    "type": "mechanical",
     "label": "",
     "verified": "draft",
-    "bendX": 52.12,
-    "bendY": 45.38
+    "bendX": null,
+    "bendY": null
   }
 ]
