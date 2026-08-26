@@ -44,7 +44,7 @@
     "y": 39.79,
     "specs": "HQ 7x12",
     "notes": "",
-    "width": 76,
+    "width": 85,
     "height": 30
   },
   {
@@ -280,8 +280,8 @@
     "name": "Приемопередатчик SiYi",
     "displayName": "SiYi",
     "category": "video",
-    "x": 50.99,
-    "y": 63.59,
+    "x": 40.19,
+    "y": 67.96,
     "specs": "SIYI HM30 Air Unit Воздушный блок с дальней передачей изображений",
     "notes": "",
     "width": 76,
