@@ -64,5 +64,35 @@
     "verified": "draft",
     "bendX": 6.92,
     "bendY": 61.86
+  },
+  {
+    "id": "local-1787754322049-01wcbr",
+    "fromId": "3458764677771802217",
+    "toId": "3458764677789585797",
+    "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null
+  },
+  {
+    "id": "local-1787754334076-9yaras",
+    "fromId": "3458764677789585797",
+    "toId": "3458764677767866898",
+    "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null
+  },
+  {
+    "id": "local-1787754341131-zbwb0p",
+    "fromId": "3458764677789585797",
+    "toId": "3458764677768066190",
+    "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null
   }
 ]
