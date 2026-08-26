@@ -116,8 +116,8 @@
     "y": 71.15,
     "specs": "Holybro Pixhawk 6c",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677770870669",
@@ -160,12 +160,12 @@
     "name": "OSD",
     "displayName": "OSD",
     "category": "video",
-    "x": 50.14,
-    "y": 68.13,
+    "x": 50.91,
+    "y": 65.82,
     "specs": "Модуль Micro OSD V2 Holybro, совместим с полетными контроллерами Pixhawk4, Pixhawk4 Mini и Durandal",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677771216367",
@@ -184,8 +184,8 @@
     "name": "Приемник управления аналоговый",
     "displayName": "RX Гермес",
     "category": "mechanical",
-    "x": 50.33,
-    "y": 97.44,
+    "x": 24.81,
+    "y": 94.5,
     "specs": "Приемник управления аналоговый Гермес 410-600 МГц группа 2 антенна Диполь х2",
     "notes": "",
     "width": 132,
@@ -208,32 +208,32 @@
     "name": "Регулятор UBEC 12v",
     "displayName": "UBEC 12v",
     "category": "power",
-    "x": 50.33,
-    "y": 85.36,
+    "x": 51.94,
+    "y": 82.3,
     "specs": "12v BlueSky",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677780215412",
     "name": "Антенна круговой поляризации",
     "displayName": "Антенна SiYi",
     "category": "video",
-    "x": 50.52,
-    "y": 88.71,
+    "x": 50.3,
+    "y": 87.08,
     "specs": "SIYI HM30 Air Unit Воздушный блок с дальней передачей изображений",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677780497949",
     "name": "антенна Дипольгруппа 2",
     "displayName": "Антена RX Гермес",
     "category": "mechanical",
-    "x": 50.33,
-    "y": 99.57,
+    "x": 33.71,
+    "y": 98.27,
     "specs": "Приемник управления аналоговый Гермес 410-600 МГц группа 2 антенна Диполь х2",
     "notes": "",
     "width": 132,
@@ -272,8 +272,8 @@
     "y": 77.75,
     "specs": "Hobbywing UBEC-3A-6S",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677788884739",
@@ -292,24 +292,24 @@
     "name": "Распределительный ХАБ полетного контроллера",
     "displayName": "ХАБ FC",
     "category": "flight_controller",
-    "x": 52.42,
-    "y": 70.03,
+    "x": 63.52,
+    "y": 66.74,
     "specs": "[]",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677790000525",
     "name": "Датчик тока",
     "displayName": "Датчик тока",
     "category": "power",
-    "x": 54.9,
-    "y": 73.95,
+    "x": 62.4,
+    "y": 71.82,
     "specs": "",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677790045028",
@@ -328,24 +328,24 @@
     "name": "Разветвитель питания BAT",
     "displayName": "Разв-ль питания BAT",
     "category": "power",
-    "x": 55.18,
-    "y": 77.64,
+    "x": 85.65,
+    "y": 77.72,
     "specs": "[]",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677790407222",
     "name": "Аналоговый видеопередатчик",
     "displayName": "VTX аналог",
     "category": "video",
-    "x": 50.62,
-    "y": 93.53,
+    "x": 50.39,
+    "y": 90.23,
     "specs": "Видеопередатчик RUSHFPV VTX 3.3 ГГЦ 4W с антенной",
     "notes": "",
-    "width": 132,
-    "height": 44
+    "width": 76,
+    "height": 30
   },
   {
     "id": "3458764677790605737",
@@ -364,40 +364,48 @@
     "name": "UBEC 12V SiYi",
     "displayName": "UBEC 12V SiYi",
     "category": "power",
-    "x": 53.09,
-    "y": 81.89,
+    "x": 68.28,
+    "y": 89.83,
     "specs": "Модуль БЭК SIYI 4-18S",
-    "notes": ""
+    "notes": "",
+    "width": 76,
+    "height": 30
   },
   {
     "id": "custom-1787732920261-xqudiv",
     "name": "WAGO",
     "displayName": "WAGO",
     "category": "power",
-    "x": 50.43,
-    "y": 81.67,
+    "x": 76.49,
+    "y": 83.82,
     "specs": "WAGO клемы соеденитеьные 3-х контактных ",
-    "notes": ""
+    "notes": "",
+    "width": 76,
+    "height": 30
   },
   {
     "id": "custom-1787733013515-cjh5z5",
     "name": "Конденсатор",
     "displayName": "Конденсатор",
     "category": "power",
-    "x": 47.48,
-    "y": 81.78,
+    "x": 28.09,
+    "y": 82.2,
     "specs": "1000 мФ 35в",
-    "notes": ""
+    "notes": "",
+    "width": 76,
+    "height": 30
   },
   {
     "id": "custom-1787733117677-4o8qvy",
     "name": "USB хаб МТЗ",
     "displayName": "USB хаб МТЗ",
     "category": "video",
-    "x": 52.33,
-    "y": 72.94,
+    "x": 74.84,
+    "y": 73.55,
     "specs": "Состоит из:\nСетевой адаптер TP-Link U300\nСтабилизатор напряжения\nПлата расширения Module FE",
-    "notes": ""
+    "notes": "",
+    "width": 76,
+    "height": 30
   },
   {
     "id": "custom-1787733285845-ln8cmq",
@@ -407,6 +415,8 @@
     "x": 29.13,
     "y": 71.01,
     "specs": "Модуль распределения питания - Holybro PM02 V3 Power Module 7-51V (2-12S) 100A (арт.HB-SKU15010)",
-    "notes": ""
+    "notes": "",
+    "width": 76,
+    "height": 30
   }
 ]
