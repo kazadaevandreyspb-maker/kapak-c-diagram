@@ -364,8 +364,8 @@
     "bend2Y": 77.01,
     "bend3X": 70.09,
     "bend3Y": 85.67,
-    "bend4X": 70.33,
-    "bend4Y": 91.38
+    "bend4X": 70.14,
+    "bend4Y": 91.35
   },
   {
     "id": "local-1787839201979-4kny6k",
@@ -645,7 +645,7 @@
     "toId": "3458764677780215412",
     "type": "video",
     "label": "",
-    "verified": "draft",
+    "verified": "verified",
     "bendX": 37.79,
     "bendY": 55.59,
     "bend2X": 37.65,
@@ -661,13 +661,13 @@
     "toId": "3458764677790605737",
     "type": "video",
     "label": "",
-    "verified": "draft",
+    "verified": "verified",
     "bendX": null,
     "bendY": null,
     "bend2X": 46.87,
     "bend2Y": 44.7,
-    "bend3X": 46.98,
-    "bend3Y": 44.5,
+    "bend3X": 47.31,
+    "bend3Y": 44.8,
     "bend4X": 48.86,
     "bend4Y": 44.82
   }
