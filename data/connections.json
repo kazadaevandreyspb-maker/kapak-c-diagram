@@ -60,6 +60,38 @@
     "bend2Y": null,
     "bend3X": null,
     "bend3Y": null,
+    "bend4X": 32.15,
+    "bend4Y": 49.85
+  },
+  {
+    "id": "local-1787837173545-sl6g9x",
+    "fromId": "custom-1787732920261-xqudiv",
+    "toId": "3458764677768066624",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
+  },
+  {
+    "id": "local-1787837189071-8s804s",
+    "fromId": "custom-1787732920261-xqudiv",
+    "toId": "3458764677786814513",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
     "bend4X": null,
     "bend4Y": null
   }
