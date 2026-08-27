@@ -224,8 +224,8 @@
     "name": "Регулятор UBEC 12v",
     "displayName": "UBEC 12v",
     "category": "power",
-    "x": 50.49,
-    "y": 79.41,
+    "x": 54.5,
+    "y": 79.58,
     "specs": "12v BlueSky",
     "notes": "",
     "width": 76,
@@ -443,13 +443,13 @@
     "name": "HUB i2c FC",
     "displayName": "HUB i2c FC",
     "category": "flight_controller",
-    "x": 50,
-    "y": 50,
+    "x": 47.29,
+    "y": 78.59,
     "photoUrl": null,
     "specs": "",
     "notes": "",
-    "width": null,
-    "height": null,
+    "width": 71,
+    "height": 31,
     "fontScale": null
   }
 ]
