@@ -63,7 +63,9 @@
     "label": "",
     "verified": "draft",
     "bendX": 7.73,
-    "bendY": 72.15
+    "bendY": 72.15,
+    "bend2X": 24.77,
+    "bend2Y": 70.36
   },
   {
     "id": "local-1787754322049-01wcbr",
