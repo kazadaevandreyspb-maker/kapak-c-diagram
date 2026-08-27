@@ -108,8 +108,8 @@
     "bend2Y": 69.42,
     "bend3X": 33.67,
     "bend3Y": 61.05,
-    "bend4X": null,
-    "bend4Y": null
+    "bend4X": 33.75,
+    "bend4Y": 53.68
   },
   {
     "id": "local-1787837289873-wloqtp",
@@ -125,6 +125,22 @@
     "bend3X": 67.41,
     "bend3Y": 64.56,
     "bend4X": 67.17,
-    "bend4Y": 57.58
+    "bend4Y": 53.78
+  },
+  {
+    "id": "local-1787837908944-3n92h4",
+    "fromId": "3458764677768198640",
+    "toId": "3458764677789585797",
+    "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
   }
 ]
