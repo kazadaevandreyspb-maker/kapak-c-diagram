@@ -32,38 +32,6 @@
     "bend4Y": 45.72
   },
   {
-    "id": "local-1787837067090-mw42ci",
-    "fromId": "3458764677767034504",
-    "toId": "3458764677786814513",
-    "type": "mechanical",
-    "label": "",
-    "verified": "verified",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": 69.1,
-    "bend4Y": 49.87
-  },
-  {
-    "id": "local-1787837123293-u5n2tw",
-    "fromId": "3458764677766145829",
-    "toId": "3458764677768066624",
-    "type": "mechanical",
-    "label": "",
-    "verified": "draft",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": 32.15,
-    "bend4Y": 49.85
-  },
-  {
     "id": "local-1787837173545-sl6g9x",
     "fromId": "custom-1787732920261-xqudiv",
     "toId": "3458764677768066624",
@@ -238,5 +206,21 @@
     "bend3Y": 67.57,
     "bend4X": 61.47,
     "bend4Y": 62.23
+  },
+  {
+    "id": "local-1787838375972-x4dh7u",
+    "fromId": "3458764677767034504",
+    "toId": "3458764677786814513",
+    "type": "mechanical",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
   }
 ]
