@@ -576,22 +576,6 @@
     "bend4Y": 78.05
   },
   {
-    "id": "local-1787840009428-tyee3x",
-    "fromId": "3458764677790605737",
-    "toId": "3458764677788884739",
-    "type": "video",
-    "label": "",
-    "verified": "verified",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": 50.56,
-    "bend2Y": 44.67,
-    "bend3X": 50.63,
-    "bend3Y": 44.9,
-    "bend4X": 48.9,
-    "bend4Y": 44.84
-  },
-  {
     "id": "local-1787840110906-9ae67c",
     "fromId": "custom-1787732885277-gfkhwv",
     "toId": "3458764677788884739",
@@ -654,5 +638,37 @@
     "bend3Y": 16.45,
     "bend4X": 80.58,
     "bend4Y": 66.42
+  },
+  {
+    "id": "local-1787840693583-7hh0t7",
+    "fromId": "3458764677788884739",
+    "toId": "3458764677780215412",
+    "type": "video",
+    "label": "",
+    "verified": "draft",
+    "bendX": 37.79,
+    "bendY": 55.59,
+    "bend2X": 37.65,
+    "bend2Y": 87.15,
+    "bend3X": 45.98,
+    "bend3Y": 87.4,
+    "bend4X": 48.31,
+    "bend4Y": 87.32
+  },
+  {
+    "id": "local-1787840705017-a08e7b",
+    "fromId": "3458764677788884739",
+    "toId": "3458764677790605737",
+    "type": "video",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": 46.87,
+    "bend2Y": 44.7,
+    "bend3X": 46.98,
+    "bend3Y": 44.5,
+    "bend4X": 48.86,
+    "bend4Y": 44.82
   }
 ]
