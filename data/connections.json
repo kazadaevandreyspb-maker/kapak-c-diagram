@@ -222,5 +222,21 @@
     "bend3Y": null,
     "bend4X": null,
     "bend4Y": null
+  },
+  {
+    "id": "local-1787838047948-ibxzig",
+    "fromId": "3458764677789585797",
+    "toId": "3458764677771802217",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": 62.29,
+    "bendY": 80.68,
+    "bend2X": 62.18,
+    "bend2Y": 72.33,
+    "bend3X": 62.1,
+    "bend3Y": 67.19,
+    "bend4X": null,
+    "bend4Y": null
   }
 ]
