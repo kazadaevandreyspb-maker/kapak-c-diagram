@@ -392,12 +392,12 @@
     "verified": "draft",
     "bendX": null,
     "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": 50.52,
-    "bend4Y": 77.65
+    "bend2X": 51.15,
+    "bend2Y": 75.66,
+    "bend3X": 51.36,
+    "bend3Y": 75.86,
+    "bend4X": 53.42,
+    "bend4Y": 78.4
   },
   {
     "id": "local-1787839276372-klyfcd",
@@ -444,7 +444,7 @@
     "bend2Y": null,
     "bend3X": 45.7,
     "bend3Y": 74.89,
-    "bend4X": null,
-    "bend4Y": null
+    "bend4X": 47.42,
+    "bend4Y": 74.95
   }
 ]
