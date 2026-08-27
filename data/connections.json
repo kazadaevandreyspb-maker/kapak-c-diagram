@@ -62,8 +62,8 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": 6.92,
-    "bendY": 61.86
+    "bendX": 15.82,
+    "bendY": 64.6
   },
   {
     "id": "local-1787754322049-01wcbr",
@@ -102,7 +102,7 @@
     "type": "mechanical",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null
+    "bendX": 57.22,
+    "bendY": 12.13
   }
 ]
