@@ -100,8 +100,8 @@
     "name": "Датчик воздушной скорости",
     "displayName": "Датчик воздушной скорости",
     "category": "sensors",
-    "x": 54.71,
-    "y": 19.14,
+    "x": 55.59,
+    "y": 20.87,
     "specs": "Pixhawk PX4 Digital Airspeed Sensor Kit (с оптимизацией для работы на прошивке PX4, протокол I2C, с цифровым дифференциальным датчиком давления Measurement Specialties 4525DO, вывод данных в 14-битном разрешении, с функциоей измерения температуры воздуха)",
     "notes": "",
     "width": 88,
@@ -321,7 +321,8 @@
     "specs": "Lipo HV 6S 7200-7500 mAh",
     "notes": "",
     "width": 98,
-    "height": 43
+    "height": 43,
+    "fontScale": 1
   },
   {
     "id": "3458764677790232063",
@@ -412,8 +413,8 @@
     "name": "Модуль PM02",
     "displayName": "Модуль PM02",
     "category": "power",
-    "x": 29.13,
-    "y": 71.01,
+    "x": 27.26,
+    "y": 78.23,
     "specs": "Модуль распределения питания - Holybro PM02 V3 Power Module 7-51V (2-12S) 100A (арт.HB-SKU15010)",
     "notes": "",
     "width": 76,
