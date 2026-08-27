@@ -144,10 +144,10 @@
     "bend4Y": null
   },
   {
-    "id": "local-1787837933279-4ltdhu",
+    "id": "local-1787838008441-ad4jer",
     "fromId": "3458764677789585797",
     "toId": "3458764677767866898",
-    "type": "mechanical",
+    "type": "fc",
     "label": "",
     "verified": "draft",
     "bendX": null,
@@ -160,7 +160,7 @@
     "bend4Y": null
   },
   {
-    "id": "local-1787837945400-y0b0ds",
+    "id": "local-1787838014649-hl0nwe",
     "fromId": "3458764677789585797",
     "toId": "3458764677767866898",
     "type": "power",
@@ -176,9 +176,41 @@
     "bend4Y": null
   },
   {
-    "id": "local-1787837979156-c5z6o9",
+    "id": "local-1787838029294-6exbxq",
     "fromId": "3458764677789585797",
     "toId": "3458764677768066190",
+    "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
+  },
+  {
+    "id": "local-1787838035622-ogjski",
+    "fromId": "3458764677789585797",
+    "toId": "3458764677768066190",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
+  },
+  {
+    "id": "local-1787838042608-fh8khg",
+    "fromId": "3458764677789585797",
+    "toId": "3458764677771802217",
     "type": "fc",
     "label": "",
     "verified": "draft",
