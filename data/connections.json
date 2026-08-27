@@ -104,5 +104,15 @@
     "verified": "draft",
     "bendX": 57.22,
     "bendY": 12.13
+  },
+  {
+    "id": "local-1787821829288-evzfex",
+    "fromId": "3458764677768198640",
+    "toId": "3458764677771059118",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null
   }
 ]
