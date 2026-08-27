@@ -62,8 +62,8 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": 15.82,
-    "bendY": 64.6
+    "bendX": 7.73,
+    "bendY": 72.15
   },
   {
     "id": "local-1787754322049-01wcbr",
@@ -104,15 +104,5 @@
     "verified": "draft",
     "bendX": 57.22,
     "bendY": 12.13
-  },
-  {
-    "id": "local-1787828653074-89cjwy",
-    "fromId": "3458764677768066624",
-    "toId": "custom-1787733285845-ln8cmq",
-    "type": "power",
-    "label": "",
-    "verified": "draft",
-    "bendX": null,
-    "bendY": null
   }
 ]
