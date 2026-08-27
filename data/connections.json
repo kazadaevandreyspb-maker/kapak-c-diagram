@@ -166,14 +166,14 @@
     "type": "power",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": null,
-    "bend4Y": null
+    "bendX": 39.57,
+    "bendY": 80.1,
+    "bend2X": 39.52,
+    "bend2Y": 72.11,
+    "bend3X": 39.52,
+    "bend3Y": 65.85,
+    "bend4X": 40.3,
+    "bend4Y": 62.19
   },
   {
     "id": "local-1787838029294-6exbxq",
@@ -214,14 +214,14 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": null,
-    "bend4Y": null
+    "bendX": 63.21,
+    "bendY": 81.09,
+    "bend2X": 63.21,
+    "bend2Y": 72.65,
+    "bend3X": 63.08,
+    "bend3Y": 66.99,
+    "bend4X": 63.16,
+    "bend4Y": 62.17
   },
   {
     "id": "local-1787838047948-ibxzig",
@@ -230,13 +230,13 @@
     "type": "power",
     "label": "",
     "verified": "draft",
-    "bendX": 62.29,
-    "bendY": 80.68,
-    "bend2X": 62.18,
-    "bend2Y": 72.33,
-    "bend3X": 62.1,
-    "bend3Y": 67.19,
-    "bend4X": null,
-    "bend4Y": null
+    "bendX": 61.8,
+    "bendY": 80.45,
+    "bend2X": 61.72,
+    "bend2Y": 72.49,
+    "bend3X": 61.66,
+    "bend3Y": 67.57,
+    "bend4X": 61.47,
+    "bend4Y": 62.23
   }
 ]
