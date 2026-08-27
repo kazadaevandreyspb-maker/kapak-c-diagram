@@ -534,8 +534,8 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null,
+    "bendX": 35.46,
+    "bendY": 39.14,
     "bend2X": null,
     "bend2Y": null,
     "bend3X": null,
@@ -566,13 +566,13 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": 36.86,
-    "bendY": 20.66,
-    "bend2X": 27.1,
-    "bend2Y": 34.55,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": null,
-    "bend4Y": null
+    "bendX": 52.93,
+    "bendY": 21.25,
+    "bend2X": 17.35,
+    "bend2Y": 21.34,
+    "bend3X": 17.45,
+    "bend3Y": 40,
+    "bend4X": 17.67,
+    "bend4Y": 78.05
   }
 ]
