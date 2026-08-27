@@ -278,14 +278,14 @@
     "type": "fc",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": null,
-    "bend4Y": null
+    "bendX": 31.17,
+    "bendY": 93.16,
+    "bend2X": 31.17,
+    "bend2Y": 81.33,
+    "bend3X": 31.12,
+    "bend3Y": 71.91,
+    "bend4X": 31.12,
+    "bend4Y": 67.87
   },
   {
     "id": "local-1787838702131-x7tkla",
@@ -294,13 +294,29 @@
     "type": "power",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null,
+    "bendX": 29.83,
+    "bendY": 66.22,
     "bend2X": 29.78,
     "bend2Y": 72.93,
-    "bend3X": 42.78,
-    "bend3Y": 78.62,
-    "bend4X": 42.83,
-    "bend4Y": 94.42
+    "bend3X": 29.83,
+    "bend3Y": 82.03,
+    "bend4X": 29.78,
+    "bend4Y": 94.49
+  },
+  {
+    "id": "local-1787838814190-billmc",
+    "fromId": "3458764677767392005",
+    "toId": "3458764677771215962",
+    "type": "video",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
   }
 ]
