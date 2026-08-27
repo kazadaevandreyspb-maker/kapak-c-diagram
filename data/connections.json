@@ -582,14 +582,14 @@
     "type": "video",
     "label": "",
     "verified": "draft",
-    "bendX": null,
-    "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": null,
-    "bend4Y": null
+    "bendX": 25.22,
+    "bendY": 84.53,
+    "bend2X": 27,
+    "bend2Y": 69.97,
+    "bend3X": 24.74,
+    "bend3Y": 64.35,
+    "bend4X": 38.16,
+    "bend4Y": 56.26
   },
   {
     "id": "local-1787840009428-tyee3x",
@@ -600,11 +600,11 @@
     "verified": "draft",
     "bendX": null,
     "bendY": null,
-    "bend2X": null,
-    "bend2Y": null,
-    "bend3X": null,
-    "bend3Y": null,
-    "bend4X": null,
-    "bend4Y": null
+    "bend2X": 50.56,
+    "bend2Y": 44.67,
+    "bend3X": 50.63,
+    "bend3Y": 44.9,
+    "bend4X": 48.9,
+    "bend4Y": 44.84
   }
 ]
