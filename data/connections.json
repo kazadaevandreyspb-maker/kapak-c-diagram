@@ -102,12 +102,12 @@
     "type": "fc",
     "label": "",
     "verified": "verified",
-    "bendX": 46.78,
-    "bendY": 68.53,
-    "bend2X": 46.78,
-    "bend2Y": 72.35,
-    "bend3X": 46.85,
-    "bend3Y": 77.35,
+    "bendX": 45.18,
+    "bendY": 67.81,
+    "bend2X": 37.09,
+    "bend2Y": 69.4,
+    "bend3X": 37,
+    "bend3Y": 78.07,
     "bend4X": 46.92,
     "bend4Y": 81.25
   },
@@ -396,8 +396,8 @@
     "bend2Y": 75.66,
     "bend3X": 51.36,
     "bend3Y": 75.86,
-    "bend4X": 53.42,
-    "bend4Y": 78.4
+    "bend4X": 53.19,
+    "bend4Y": 77.92
   },
   {
     "id": "local-1787839276372-klyfcd",
@@ -446,5 +446,21 @@
     "bend3Y": 74.89,
     "bend4X": 47.42,
     "bend4Y": 74.95
+  },
+  {
+    "id": "local-1787839525945-7hvjyg",
+    "fromId": "custom-1787839414205-2kyvhc",
+    "toId": "3458764677768198640",
+    "type": "fc",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
   }
 ]
