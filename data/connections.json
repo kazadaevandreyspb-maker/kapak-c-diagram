@@ -670,5 +670,21 @@
     "bend3Y": 44.8,
     "bend4X": 48.86,
     "bend4Y": 44.82
+  },
+  {
+    "id": "local-1787908085159-1jsuur",
+    "fromId": "custom-1787908056026-0jx1fa",
+    "toId": "3458764677771215962",
+    "type": "power",
+    "label": "",
+    "verified": "draft",
+    "bendX": null,
+    "bendY": null,
+    "bend2X": null,
+    "bend2Y": null,
+    "bend3X": null,
+    "bend3Y": null,
+    "bend4X": null,
+    "bend4Y": null
   }
 ]
